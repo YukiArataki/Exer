@@ -1,0 +1,15 @@
+C:\Desinvolvimento\ListaExercios\Exe06a\bin\Debug\net7.0\Exe06a.exe
+C:\Desinvolvimento\ListaExercios\Exe06a\bin\Debug\net7.0\Exe06a.deps.json
+C:\Desinvolvimento\ListaExercios\Exe06a\bin\Debug\net7.0\Exe06a.runtimeconfig.json
+C:\Desinvolvimento\ListaExercios\Exe06a\bin\Debug\net7.0\Exe06a.dll
+C:\Desinvolvimento\ListaExercios\Exe06a\bin\Debug\net7.0\Exe06a.pdb
+C:\Desinvolvimento\ListaExercios\Exe06a\obj\Debug\net7.0\Exe06a.csproj.AssemblyReference.cache
+C:\Desinvolvimento\ListaExercios\Exe06a\obj\Debug\net7.0\Exe06a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desinvolvimento\ListaExercios\Exe06a\obj\Debug\net7.0\Exe06a.AssemblyInfoInputs.cache
+C:\Desinvolvimento\ListaExercios\Exe06a\obj\Debug\net7.0\Exe06a.AssemblyInfo.cs
+C:\Desinvolvimento\ListaExercios\Exe06a\obj\Debug\net7.0\Exe06a.csproj.CoreCompileInputs.cache
+C:\Desinvolvimento\ListaExercios\Exe06a\obj\Debug\net7.0\Exe06a.dll
+C:\Desinvolvimento\ListaExercios\Exe06a\obj\Debug\net7.0\refint\Exe06a.dll
+C:\Desinvolvimento\ListaExercios\Exe06a\obj\Debug\net7.0\Exe06a.pdb
+C:\Desinvolvimento\ListaExercios\Exe06a\obj\Debug\net7.0\Exe06a.genruntimeconfig.cache
+C:\Desinvolvimento\ListaExercios\Exe06a\obj\Debug\net7.0\ref\Exe06a.dll
