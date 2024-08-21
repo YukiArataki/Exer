@@ -13,13 +13,27 @@ for (int i = 0; i < vetor.Length; i++)
     
 Console.Write(vetor[i] + " ");
 }
-
-for (int i = 0; i < vetor.Length - 1; i++)
+bool troca = false;
+do{
+    troca = false;
+    for (int i = 0; i < vetor.Length - 1; i++)
 {
+    
     if(vetor[i] > vetor[i + 1])
     {
+        troca = true;
         int aux = vetor[i];
         vetor[i] = vetor[i + 1];
         vetor[i + 1] = aux;
+        troca = true;
     }
+     
+}
+}while(troca == true);
+
+Console.WriteLine("\n");
+//Imprimir o vetor com valores ordenados
+for(int i = 0; i <vetor.Length; i++)
+{
+    Console.Write(vetor[i] + " ");
 }
